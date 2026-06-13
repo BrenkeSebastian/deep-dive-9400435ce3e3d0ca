@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deep Dive</title>
+    <link>https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca</link>
+    <language>en-us</language>
+    <description>Personal deep-dive episodes on technology, science and how things work — researched and produced on demand.</description>
+    <itunes:author>Sebastian Brenke</itunes:author>
+    <itunes:summary>Personal deep-dive episodes on technology, science and how things work — researched and produced on demand.</itunes:summary>
+    <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <lastBuildDate>Sat, 13 Jun 2026 06:50:17 +0000</lastBuildDate>
+    <itunes:image href="https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg"/>
+    <image><url>https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg</url><title>Deep Dive</title><link>https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca</link></image>
+    <item>
+      <title>How RAM Is Made - And Why It Suddenly Costs So Much</title>
+      <description><![CDATA[<p>Why has RAM roughly doubled in price? This episode unpacks how DRAM is actually manufactured — the 1T1C cell, the brutal capacitor-etching that defines memory fabrication — and contrasts it with logic chips at a foundry like TSMC. Then it follows the money into HBM and the AI build-out to explain the 2026 memory shortage.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://www.networkworld.com/article/4113772/samsung-warns-of-memory-shortages-driving-industry-wide-price-surge-in-2026.html">Samsung warns of memory shortages driving industry-wide price surge in 2026 (Network World)</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-and-sk-hynix-warn-ai-driven-memory-shortages-could-last-until-2027-and-beyond-as-hbm-demand-explodes-customers-already-reserving-supply-years-ahead-while-the-wider-dram-market-begins-to-tighten">Samsung and SK hynix warn AI-driven memory shortages could last until 2027 (Tom's Hardware)</a></li>
+<li><a href="https://www.astutegroup.com/news/memory-shortages/dram-and-nand-prices-jump-as-samsung-sk-hynix-and-micron-tighten-supply/">DRAM and NAND prices jump as Samsung, SK Hynix and Micron tighten supply (Astute Group)</a></li>
+<li><a href="https://blog.entegris.com/dram-device-fabrication">DRAM: Device Fabrication (Entegris)</a></li>
+<li><a href="https://blocksandfiles.com/2020/04/13/dram-is-stuck-in-a-10nm-process-trap/">Why DRAM is stuck in a 10nm trap (Blocks &amp; Files)</a></li>
+<li><a href="https://newsletter.semianalysis.com/p/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm">Scaling the Memory Wall: The Rise and Roadmap of HBM (SemiAnalysis)</a></li>
+<li><a href="https://www.viksnewsletter.com/p/why-is-hbm-so-hard-to-manufacture">Why is HBM so Hard to Manufacture? (Vikram Sekar)</a></li>
+<li><a href="https://news.skhynix.com/sk-hynix-partners-with-tsmc-to-strengthen-hbm-technological-leadership/">SK hynix Partners With TSMC to Strengthen HBM Leadership</a></li>
+</ul>]]></description>
+      <itunes:summary><![CDATA[<p>Why has RAM roughly doubled in price? This episode unpacks how DRAM is actually manufactured — the 1T1C cell, the brutal capacitor-etching that defines memory fabrication — and contrasts it with logic chips at a foundry like TSMC. Then it follows the money into HBM and the AI build-out to explain the 2026 memory shortage.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://www.networkworld.com/article/4113772/samsung-warns-of-memory-shortages-driving-industry-wide-price-surge-in-2026.html">Samsung warns of memory shortages driving industry-wide price surge in 2026 (Network World)</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-and-sk-hynix-warn-ai-driven-memory-shortages-could-last-until-2027-and-beyond-as-hbm-demand-explodes-customers-already-reserving-supply-years-ahead-while-the-wider-dram-market-begins-to-tighten">Samsung and SK hynix warn AI-driven memory shortages could last until 2027 (Tom's Hardware)</a></li>
+<li><a href="https://www.astutegroup.com/news/memory-shortages/dram-and-nand-prices-jump-as-samsung-sk-hynix-and-micron-tighten-supply/">DRAM and NAND prices jump as Samsung, SK Hynix and Micron tighten supply (Astute Group)</a></li>
+<li><a href="https://blog.entegris.com/dram-device-fabrication">DRAM: Device Fabrication (Entegris)</a></li>
+<li><a href="https://blocksandfiles.com/2020/04/13/dram-is-stuck-in-a-10nm-process-trap/">Why DRAM is stuck in a 10nm trap (Blocks &amp; Files)</a></li>
+<li><a href="https://newsletter.semianalysis.com/p/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm">Scaling the Memory Wall: The Rise and Roadmap of HBM (SemiAnalysis)</a></li>
+<li><a href="https://www.viksnewsletter.com/p/why-is-hbm-so-hard-to-manufacture">Why is HBM so Hard to Manufacture? (Vikram Sekar)</a></li>
+<li><a href="https://news.skhynix.com/sk-hynix-partners-with-tsmc-to-strengthen-hbm-technological-leadership/">SK hynix Partners With TSMC to Strengthen HBM Leadership</a></li>
+</ul>]]></itunes:summary>
+      <pubDate>Fri, 12 Jun 2026 23:23:53 +0000</pubDate>
+      <enclosure url="https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/episodes/how-ram-is-made.mp3" length="7559523" type="audio/mpeg"/>
+      <guid isPermaLink="false">how-ram-is-made</guid>
+      <itunes:duration>15:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
