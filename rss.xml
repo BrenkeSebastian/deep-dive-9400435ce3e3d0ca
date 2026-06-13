@@ -10,9 +10,29 @@
     <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <lastBuildDate>Sat, 13 Jun 2026 06:50:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 09:46:44 +0000</lastBuildDate>
     <itunes:image href="https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg"/>
     <image><url>https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg</url><title>Deep Dive</title><link>https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca</link></image>
+    <item>
+      <title>How an RSS Feed Actually Works</title>
+      <description><![CDATA[<p>We just built a private podcast feed for this show — so what is RSS, really? A short explainer on the quietly resilient format behind every podcast: why a feed is just a text file, how the audio lives elsewhere, and why your app pulls new episodes rather than being pushed them.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://cyber.harvard.edu/rss/rss.html">RSS 2.0 Specification (Harvard Berkman Center)</a></li>
+<li><a href="https://podcasters.apple.com/support/823-podcast-requirements">Apple Podcasts feed requirements</a></li>
+<li><a href="https://www.w3.org/TR/websub/">WebSub — the W3C standard for push updates to feeds</a></li>
+</ul>]]></description>
+      <itunes:summary><![CDATA[<p>We just built a private podcast feed for this show — so what is RSS, really? A short explainer on the quietly resilient format behind every podcast: why a feed is just a text file, how the audio lives elsewhere, and why your app pulls new episodes rather than being pushed them.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://cyber.harvard.edu/rss/rss.html">RSS 2.0 Specification (Harvard Berkman Center)</a></li>
+<li><a href="https://podcasters.apple.com/support/823-podcast-requirements">Apple Podcasts feed requirements</a></li>
+<li><a href="https://www.w3.org/TR/websub/">WebSub — the W3C standard for push updates to feeds</a></li>
+</ul>]]></itunes:summary>
+      <pubDate>Sat, 13 Jun 2026 09:46:33 +0000</pubDate>
+      <enclosure url="https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/episodes/how-rss-works.mp3" length="1540340" type="audio/mpeg"/>
+      <guid isPermaLink="false">how-rss-works</guid>
+      <itunes:duration>3:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How RAM Is Made - And Why It Suddenly Costs So Much</title>
       <description><![CDATA[<p>Why has RAM roughly doubled in price? This episode unpacks how DRAM is actually manufactured — the 1T1C cell, the brutal capacitor-etching that defines memory fabrication — and contrasts it with logic chips at a foundry like TSMC. Then it follows the money into HBM and the AI build-out to explain the 2026 memory shortage.</p>
