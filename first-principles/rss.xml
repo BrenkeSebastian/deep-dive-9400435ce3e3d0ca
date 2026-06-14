@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>First Principles</title>
+    <link>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/first-principles</link>
+    <language>en-us</language>
+    <description>One opinion, stress-tested from the ground up. Each episode takes a stated position, steelmans it, then examines it from first principles — separating fact from assumption from value — to see what actually holds.</description>
+    <itunes:author>Sebastian Brenke</itunes:author>
+    <itunes:summary>One opinion, stress-tested from the ground up. Each episode takes a stated position, steelmans it, then examines it from first principles — separating fact from assumption from value — to see what actually holds.</itunes:summary>
+    <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Society &amp; Culture"/>
+    <lastBuildDate>Sun, 14 Jun 2026 22:05:02 +0000</lastBuildDate>
+    <itunes:image href="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/first-principles/cover.jpg"/>
+    <image><url>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/first-principles/cover.jpg</url><title>First Principles</title><link>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/first-principles</link></image>
+    <item>
+      <title>Trailer - What This Show Is For</title>
+      <description><![CDATA[<p>A short introduction to First Principles — a show that takes one opinion, makes its strongest case, then examines it from the ground up to see what actually holds.</p>]]></description>
+      <itunes:summary><![CDATA[<p>A short introduction to First Principles — a show that takes one opinion, makes its strongest case, then examines it from the ground up to see what actually holds.</p>]]></itunes:summary>
+      <pubDate>Sun, 14 Jun 2026 22:04:50 +0000</pubDate>
+      <enclosure url="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/first-principles/episodes/trailer.mp3" length="636350" type="audio/mpeg"/>
+      <guid isPermaLink="false">trailer</guid>
+      <itunes:duration>1:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
