@@ -10,9 +10,35 @@
     <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <lastBuildDate>Sun, 14 Jun 2026 07:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 12:06:08 +0000</lastBuildDate>
     <itunes:image href="https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg"/>
     <image><url>https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg</url><title>Deep Dive</title><link>https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca</link></image>
+    <item>
+      <title>Does Acupuncture Work - And How Would We Even Know?</title>
+      <description><![CDATA[<p>Millions swear by acupuncture and acupressure — but how do you scientifically test whether any alternative therapy actually works? Using acupuncture as the case study, we take the claims seriously, then walk through the traps that fool us — regression to the mean, the placebo effect, sham needles — and land on what the evidence honestly shows.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1526590017307800">Acupuncture for Chronic Pain: Update of an Individual Patient Data Meta-Analysis (Vickers et al., Journal of Pain 2018)</a></li>
+<li><a href="https://www.cochrane.org/evidence/CD001218_acupuncture-preventing-migraine-attacks">Acupuncture for preventing migraine attacks (Cochrane review)</a></li>
+<li><a href="https://www.cochrane.org/evidence/CD003281_what-are-benefits-and-risks-different-wrist-pc6-acupoint-stimulation-techniques-preventing-nausea">PC6 (P6) acupoint stimulation for postoperative nausea and vomiting (Cochrane review)</a></li>
+<li><a href="https://www.nejm.org/doi/full/10.1056/NEJM200105243442106">Is the Placebo Powerless? An Analysis of Clinical Trials (Hróbjartsson &amp; Gøtzsche, NEJM 2001)</a></li>
+<li><a href="https://www.dcscience.net/2015/12/11/placebo-effects-are-weak-regression-to-the-mean-is-the-main-reason-ineffective-treatments-appear-to-work/">Placebo effects are weak: regression to the mean is the main reason ineffective treatments appear to work (DC's Improbable Science)</a></li>
+<li><a href="http://edzardernst.com/2013/06/acupuncture-a-needle-in-the-haystack-or-a-theatrical-placebo/">Acupuncture: a 'needle in the haystack' or a 'theatrical placebo'? (Edzard Ernst)</a></li>
+</ul>]]></description>
+      <itunes:summary><![CDATA[<p>Millions swear by acupuncture and acupressure — but how do you scientifically test whether any alternative therapy actually works? Using acupuncture as the case study, we take the claims seriously, then walk through the traps that fool us — regression to the mean, the placebo effect, sham needles — and land on what the evidence honestly shows.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1526590017307800">Acupuncture for Chronic Pain: Update of an Individual Patient Data Meta-Analysis (Vickers et al., Journal of Pain 2018)</a></li>
+<li><a href="https://www.cochrane.org/evidence/CD001218_acupuncture-preventing-migraine-attacks">Acupuncture for preventing migraine attacks (Cochrane review)</a></li>
+<li><a href="https://www.cochrane.org/evidence/CD003281_what-are-benefits-and-risks-different-wrist-pc6-acupoint-stimulation-techniques-preventing-nausea">PC6 (P6) acupoint stimulation for postoperative nausea and vomiting (Cochrane review)</a></li>
+<li><a href="https://www.nejm.org/doi/full/10.1056/NEJM200105243442106">Is the Placebo Powerless? An Analysis of Clinical Trials (Hróbjartsson &amp; Gøtzsche, NEJM 2001)</a></li>
+<li><a href="https://www.dcscience.net/2015/12/11/placebo-effects-are-weak-regression-to-the-mean-is-the-main-reason-ineffective-treatments-appear-to-work/">Placebo effects are weak: regression to the mean is the main reason ineffective treatments appear to work (DC's Improbable Science)</a></li>
+<li><a href="http://edzardernst.com/2013/06/acupuncture-a-needle-in-the-haystack-or-a-theatrical-placebo/">Acupuncture: a 'needle in the haystack' or a 'theatrical placebo'? (Edzard Ernst)</a></li>
+</ul>]]></itunes:summary>
+      <pubDate>Sun, 14 Jun 2026 12:03:44 +0000</pubDate>
+      <enclosure url="https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/episodes/does-acupuncture-work.mp3" length="7038603" type="audio/mpeg"/>
+      <guid isPermaLink="false">does-acupuncture-work</guid>
+      <itunes:duration>13:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Data Actually Travels - Down a Wire, Through Glass, and Across Thin Air</title>
       <description><![CDATA[<p>Everything digital is just ones and zeros — but a copper wire, a strand of glass, and the open air don't know what a number is. So how does a bit physically travel? This episode follows a single one and zero through all three media, and finds the one idea they secretly share.</p>
