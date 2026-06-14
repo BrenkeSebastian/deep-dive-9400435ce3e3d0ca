@@ -10,9 +10,39 @@
     <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Society &amp; Culture"/>
-    <lastBuildDate>Sun, 14 Jun 2026 22:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:39:35 +0000</lastBuildDate>
     <itunes:image href="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/first-principles/cover.jpg"/>
     <image><url>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/first-principles/cover.jpg</url><title>First Principles</title><link>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/first-principles</link></image>
+    <item>
+      <title>Can a Startup Break Into German Health-IT, or Does Regulation Make It Impossible?</title>
+      <description><![CDATA[<p>The thesis: as an individual or a small startup, it's impossible to enter the German health-IT market — regulation and certification costs simply exceed what a small player can carry. We give that its strongest form, then test it from the ground up, segment by segment, and reach an honest verdict about where it holds and where it breaks.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html">DiGA — Digitale Gesundheitsanwendungen, Fast-Track (BfArM)</a></li>
+<li><a href="https://sifted.eu/articles/diga-promised-german-healthtechs-access-to-73m-patients-but-insurer-roadblocks-and-slow-adoption-are-limiting-its-potential">DiGA promised access to 73m patients — but slow insurers and poor adoption hold it back (Sifted)</a></li>
+<li><a href="https://www.heise.de/en/news/Insurers-critique-high-costs-and-low-benefits-of-prescription-apps-10375339.html">Insurers critique high costs and low benefits of prescription apps (heise online)</a></li>
+<li><a href="https://medenvoyglobal.com/blog/whats-the-cost-of-medical-device-approval-in-europe/">What's the cost of medical device approval in Europe? (MedEnvoy)</a></li>
+<li><a href="https://quickbirdmedical.com/en/medical-device-mdr-risk-class-1-2a/">MDR risk class I vs IIa for software as a medical device (Quickbird Medical)</a></li>
+<li><a href="https://fachportal.gematik.de/zulassung/kosten/zulassung-von-komponenten">Zulassung von Komponenten — Kosten (gematik Fachportal)</a></li>
+<li><a href="https://www.vdek.com/politik/gesetze/wahlperiode_20/digital-gesetz-digig.html">Digital-Gesetz (DigiG) — Überblick (vdek)</a></li>
+<li><a href="https://www.kma-online.de/aktuelles/it-digital-health/detail/gematik-etabliert-standards-fuer-it-systeme-in-kliniken-a-45727">gematik etabliert Interoperabilitäts-Standards (ISiK) für Kliniken (kma online)</a></li>
+</ul>]]></description>
+      <itunes:summary><![CDATA[<p>The thesis: as an individual or a small startup, it's impossible to enter the German health-IT market — regulation and certification costs simply exceed what a small player can carry. We give that its strongest form, then test it from the ground up, segment by segment, and reach an honest verdict about where it holds and where it breaks.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html">DiGA — Digitale Gesundheitsanwendungen, Fast-Track (BfArM)</a></li>
+<li><a href="https://sifted.eu/articles/diga-promised-german-healthtechs-access-to-73m-patients-but-insurer-roadblocks-and-slow-adoption-are-limiting-its-potential">DiGA promised access to 73m patients — but slow insurers and poor adoption hold it back (Sifted)</a></li>
+<li><a href="https://www.heise.de/en/news/Insurers-critique-high-costs-and-low-benefits-of-prescription-apps-10375339.html">Insurers critique high costs and low benefits of prescription apps (heise online)</a></li>
+<li><a href="https://medenvoyglobal.com/blog/whats-the-cost-of-medical-device-approval-in-europe/">What's the cost of medical device approval in Europe? (MedEnvoy)</a></li>
+<li><a href="https://quickbirdmedical.com/en/medical-device-mdr-risk-class-1-2a/">MDR risk class I vs IIa for software as a medical device (Quickbird Medical)</a></li>
+<li><a href="https://fachportal.gematik.de/zulassung/kosten/zulassung-von-komponenten">Zulassung von Komponenten — Kosten (gematik Fachportal)</a></li>
+<li><a href="https://www.vdek.com/politik/gesetze/wahlperiode_20/digital-gesetz-digig.html">Digital-Gesetz (DigiG) — Überblick (vdek)</a></li>
+<li><a href="https://www.kma-online.de/aktuelles/it-digital-health/detail/gematik-etabliert-standards-fuer-it-systeme-in-kliniken-a-45727">gematik etabliert Interoperabilitäts-Standards (ISiK) für Kliniken (kma online)</a></li>
+</ul>]]></itunes:summary>
+      <pubDate>Sun, 14 Jun 2026 22:33:46 +0000</pubDate>
+      <enclosure url="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/first-principles/episodes/startup-german-health-it.mp3" length="7680736" type="audio/mpeg"/>
+      <guid isPermaLink="false">startup-german-health-it</guid>
+      <itunes:duration>15:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Trailer - What This Show Is For</title>
       <description><![CDATA[<p>A short introduction to First Principles — a show that takes one opinion, makes its strongest case, then examines it from the ground up to see what actually holds.</p>]]></description>
