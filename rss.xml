@@ -10,9 +10,33 @@
     <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <lastBuildDate>Sun, 14 Jun 2026 18:22:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 20:43:25 +0000</lastBuildDate>
     <itunes:image href="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg"/>
     <image><url>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg</url><title>Deep Dive</title><link>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca</link></image>
+    <item>
+      <title>Health Insurance on a German Tax Return - And the Refund Puzzle That Worries People</title>
+      <description><![CDATA[<p>In Germany, your basic health and care insurance contributions are fully tax-deductible — so why do some people find they get a bigger refund by leaving them off the return? A short explainer on deductions versus credits, the tradesperson tax credit, and why the tax office usually fills the numbers back in anyway.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://www.lohnsteuer-kompakt.de/texte/2024/106/kranken-_und_pflegeversicherung">Kranken- und Pflegeversicherung als Vorsorgeaufwendungen (Lohnsteuer kompakt)</a></li>
+<li><a href="https://www.gesetze-im-internet.de/estg/__35a.html">§ 35a EStG — Steuerermäßigung für haushaltsnahe Dienstleistungen und Handwerkerleistungen (Gesetze im Internet)</a></li>
+<li><a href="https://www.steuertipps.de/gesetze/estg/35a-steuerermaessigung-bei-aufwendungen-fuer-haushaltsnahe-beschaeftigungsverhaeltnisse-haushaltsnahe-dienstleistungen-und-handwerkerleistungen">§ 35a EStG erklärt (steuertipps.de)</a></li>
+<li><a href="https://www.tk.de/techniker/versicherung/beitrag-zusatztarife/beitraege-beitragssaetze/beitraege-und-steuererklaerung/beitraege-uebermittlung-finanzamt-2006360">Übermittlung der Beiträge an das Finanzamt (Die Techniker)</a></li>
+<li><a href="https://www.lohnsteuer-kompakt.de/steuerwissen/steuerbescheid-aendern-mit-edaten-korrektur-nach-%C2%A7-175b-ao/">Steuerbescheid ändern mit eDaten: Korrektur nach § 175b AO (Lohnsteuer kompakt)</a></li>
+</ul>]]></description>
+      <itunes:summary><![CDATA[<p>In Germany, your basic health and care insurance contributions are fully tax-deductible — so why do some people find they get a bigger refund by leaving them off the return? A short explainer on deductions versus credits, the tradesperson tax credit, and why the tax office usually fills the numbers back in anyway.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://www.lohnsteuer-kompakt.de/texte/2024/106/kranken-_und_pflegeversicherung">Kranken- und Pflegeversicherung als Vorsorgeaufwendungen (Lohnsteuer kompakt)</a></li>
+<li><a href="https://www.gesetze-im-internet.de/estg/__35a.html">§ 35a EStG — Steuerermäßigung für haushaltsnahe Dienstleistungen und Handwerkerleistungen (Gesetze im Internet)</a></li>
+<li><a href="https://www.steuertipps.de/gesetze/estg/35a-steuerermaessigung-bei-aufwendungen-fuer-haushaltsnahe-beschaeftigungsverhaeltnisse-haushaltsnahe-dienstleistungen-und-handwerkerleistungen">§ 35a EStG erklärt (steuertipps.de)</a></li>
+<li><a href="https://www.tk.de/techniker/versicherung/beitrag-zusatztarife/beitraege-beitragssaetze/beitraege-und-steuererklaerung/beitraege-uebermittlung-finanzamt-2006360">Übermittlung der Beiträge an das Finanzamt (Die Techniker)</a></li>
+<li><a href="https://www.lohnsteuer-kompakt.de/steuerwissen/steuerbescheid-aendern-mit-edaten-korrektur-nach-%C2%A7-175b-ao/">Steuerbescheid ändern mit eDaten: Korrektur nach § 175b AO (Lohnsteuer kompakt)</a></li>
+</ul>]]></itunes:summary>
+      <pubDate>Sun, 14 Jun 2026 20:43:07 +0000</pubDate>
+      <enclosure url="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/episodes/health-insurance-german-tax-return.mp3" length="3055379" type="audio/mpeg"/>
+      <guid isPermaLink="false">health-insurance-german-tax-return</guid>
+      <itunes:duration>5:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Does Acupuncture Work - And How Would We Even Know?</title>
       <description><![CDATA[<p>Millions swear by acupuncture and acupressure — but how do you scientifically test whether any alternative therapy actually works? Using acupuncture as the case study, we take the claims seriously, then walk through the traps that fool us — regression to the mean, the placebo effect, sham needles — and land on what the evidence honestly shows.</p>
