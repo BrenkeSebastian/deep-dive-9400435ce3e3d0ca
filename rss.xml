@@ -10,7 +10,7 @@
     <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <lastBuildDate>Sun, 14 Jun 2026 06:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 07:56:13 +0000</lastBuildDate>
     <itunes:image href="https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg"/>
     <image><url>https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg</url><title>Deep Dive</title><link>https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca</link></image>
     <item>
@@ -33,10 +33,10 @@
 <li><a href="https://www.networkacademy.io/ccna/wireless/sending-data-over-rf-signals">Sending data over RF signals — NetworkAcademy.IO</a></li>
 <li><a href="https://www.electronicdesign.com/technologies/communications/article/21798737/electronic-design-understanding-modern-digital-modulation-techniques">Understanding Modern Digital Modulation Techniques — Electronic Design</a></li>
 </ul>]]></itunes:summary>
-      <pubDate>Sun, 14 Jun 2026 00:01:13 +0000</pubDate>
-      <enclosure url="https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/episodes/how-data-travels.mp3" length="4579251" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Jun 2026 07:55:57 +0000</pubDate>
+      <enclosure url="https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/episodes/how-data-travels.mp3" length="4752003" type="audio/mpeg"/>
       <guid isPermaLink="false">how-data-travels</guid>
-      <itunes:duration>8:56</itunes:duration>
+      <itunes:duration>9:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
