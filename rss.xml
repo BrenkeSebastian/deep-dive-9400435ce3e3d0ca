@@ -10,9 +10,35 @@
     <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <lastBuildDate>Sat, 13 Jun 2026 09:46:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 06:27:18 +0000</lastBuildDate>
     <itunes:image href="https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg"/>
     <image><url>https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg</url><title>Deep Dive</title><link>https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca</link></image>
+    <item>
+      <title>How Data Actually Travels - Down a Wire, Through Glass, and Across Thin Air</title>
+      <description><![CDATA[<p>Everything digital is just ones and zeros — but a copper wire, a strand of glass, and the open air don't know what a number is. So how does a bit physically travel? This episode follows a single one and zero through all three media, and finds the one idea they secretly share.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://networkencyclopedia.com/line-coding/">Line Coding — Network Encyclopedia</a></li>
+<li><a href="https://www.geeksforgeeks.org/computer-networks/digital-to-digital-conversion-in-computer-network/">Digital-to-Digital Conversion — GeeksforGeeks</a></li>
+<li><a href="https://www.aflhyperscale.com/articles/how-do-fiber-optics-work-what-makes-light-stay-in-the-fiber/">How fiber optics work: total internal reflection — AFL</a></li>
+<li><a href="https://www.fibermall.com/blog/copper-vs-fibre-optic.htm">Fibre Optic vs Copper — FiberMall</a></li>
+<li><a href="https://www.networkacademy.io/ccna/wireless/sending-data-over-rf-signals">Sending data over RF signals — NetworkAcademy.IO</a></li>
+<li><a href="https://www.electronicdesign.com/technologies/communications/article/21798737/electronic-design-understanding-modern-digital-modulation-techniques">Understanding Modern Digital Modulation Techniques — Electronic Design</a></li>
+</ul>]]></description>
+      <itunes:summary><![CDATA[<p>Everything digital is just ones and zeros — but a copper wire, a strand of glass, and the open air don't know what a number is. So how does a bit physically travel? This episode follows a single one and zero through all three media, and finds the one idea they secretly share.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://networkencyclopedia.com/line-coding/">Line Coding — Network Encyclopedia</a></li>
+<li><a href="https://www.geeksforgeeks.org/computer-networks/digital-to-digital-conversion-in-computer-network/">Digital-to-Digital Conversion — GeeksforGeeks</a></li>
+<li><a href="https://www.aflhyperscale.com/articles/how-do-fiber-optics-work-what-makes-light-stay-in-the-fiber/">How fiber optics work: total internal reflection — AFL</a></li>
+<li><a href="https://www.fibermall.com/blog/copper-vs-fibre-optic.htm">Fibre Optic vs Copper — FiberMall</a></li>
+<li><a href="https://www.networkacademy.io/ccna/wireless/sending-data-over-rf-signals">Sending data over RF signals — NetworkAcademy.IO</a></li>
+<li><a href="https://www.electronicdesign.com/technologies/communications/article/21798737/electronic-design-understanding-modern-digital-modulation-techniques">Understanding Modern Digital Modulation Techniques — Electronic Design</a></li>
+</ul>]]></itunes:summary>
+      <pubDate>Sun, 14 Jun 2026 00:01:13 +0000</pubDate>
+      <enclosure url="https://BrenkeSebastian.github.io/deep-dive-9400435ce3e3d0ca/episodes/how-data-travels.mp3" length="4579251" type="audio/mpeg"/>
+      <guid isPermaLink="false">how-data-travels</guid>
+      <itunes:duration>8:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How an RSS Feed Actually Works</title>
       <description><![CDATA[<p>We just built a private podcast feed for this show — so what is RSS, really? A short explainer on the quietly resilient format behind every podcast: why a feed is just a text file, how the audio lives elsewhere, and why your app pulls new episodes rather than being pushed them.</p>
