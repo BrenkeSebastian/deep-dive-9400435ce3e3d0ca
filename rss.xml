@@ -10,9 +10,39 @@
     <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <lastBuildDate>Sun, 14 Jun 2026 22:39:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 08:16:51 +0000</lastBuildDate>
     <itunes:image href="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg"/>
     <image><url>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg</url><title>Deep Dive</title><link>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca</link></image>
+    <item>
+      <title>Inside Claude Code — Anatomy of a Coding Agent</title>
+      <description><![CDATA[<p>A technical deep dive into how Claude Code actually works — the agentic loop, subagents, MCP, hooks, and skills — and the harder questions about cost, autonomy, and when the whole thing is the wrong tool for the job.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://code.claude.com/docs/en/how-claude-code-works">How Claude Code works (Claude Code Docs)</a></li>
+<li><a href="https://code.claude.com/docs/en/sub-agents">Create custom subagents (Claude Code Docs)</a></li>
+<li><a href="https://claude.com/blog/skills-explained">Skills explained: Skills vs prompts, Projects, MCP, and subagents (Anthropic)</a></li>
+<li><a href="https://www.totalum.app/blog/claude-code-skills-totalum">Claude Code Skills in 2026: The Complete Guide vs Hooks, Subagents, MCP (Totalum)</a></li>
+<li><a href="https://okhlopkov.com/claude-code-setup-mcp-hooks-skills-2026/">Claude Code Setup 2026: MCP Servers, Hooks, Skills (okhlopkov.com)</a></li>
+<li><a href="https://medium.com/@william.couturier/claude-code-in-march-2026-the-economics-of-the-quota-792449b63edb">Claude Code in March 2026: The Economics of the Quota (Medium)</a></li>
+<li><a href="https://www.theregister.com/2026/01/05/claude_devs_usage_limits/">Claude devs complain about surprise usage limits (The Register)</a></li>
+<li><a href="https://www.truefoundry.com/blog/claude-code-limits-explained">Claude Code Rate Limits &amp; Usage Quotas Explained 2026 (TrueFoundry)</a></li>
+</ul>]]></description>
+      <itunes:summary><![CDATA[<p>A technical deep dive into how Claude Code actually works — the agentic loop, subagents, MCP, hooks, and skills — and the harder questions about cost, autonomy, and when the whole thing is the wrong tool for the job.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://code.claude.com/docs/en/how-claude-code-works">How Claude Code works (Claude Code Docs)</a></li>
+<li><a href="https://code.claude.com/docs/en/sub-agents">Create custom subagents (Claude Code Docs)</a></li>
+<li><a href="https://claude.com/blog/skills-explained">Skills explained: Skills vs prompts, Projects, MCP, and subagents (Anthropic)</a></li>
+<li><a href="https://www.totalum.app/blog/claude-code-skills-totalum">Claude Code Skills in 2026: The Complete Guide vs Hooks, Subagents, MCP (Totalum)</a></li>
+<li><a href="https://okhlopkov.com/claude-code-setup-mcp-hooks-skills-2026/">Claude Code Setup 2026: MCP Servers, Hooks, Skills (okhlopkov.com)</a></li>
+<li><a href="https://medium.com/@william.couturier/claude-code-in-march-2026-the-economics-of-the-quota-792449b63edb">Claude Code in March 2026: The Economics of the Quota (Medium)</a></li>
+<li><a href="https://www.theregister.com/2026/01/05/claude_devs_usage_limits/">Claude devs complain about surprise usage limits (The Register)</a></li>
+<li><a href="https://www.truefoundry.com/blog/claude-code-limits-explained">Claude Code Rate Limits &amp; Usage Quotas Explained 2026 (TrueFoundry)</a></li>
+</ul>]]></itunes:summary>
+      <pubDate>Sun, 05 Jul 2026 08:16:29 +0000</pubDate>
+      <enclosure url="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/episodes/inside-claude-code.mp3" length="6888768" type="audio/mpeg"/>
+      <guid isPermaLink="false">inside-claude-code</guid>
+      <itunes:duration>13:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Health Insurance on a German Tax Return - And the Refund Puzzle That Worries People</title>
       <description><![CDATA[<p>In Germany, your basic health and care insurance contributions are fully tax-deductible — so why do some people find they get a bigger refund by leaving them off the return? A short explainer on deductions versus credits, the tradesperson tax credit, and why the tax office usually fills the numbers back in anyway.</p>
