@@ -10,9 +10,33 @@
     <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <lastBuildDate>Sun, 05 Jul 2026 08:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 18:02:01 +0000</lastBuildDate>
     <itunes:image href="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg"/>
     <image><url>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg</url><title>Deep Dive</title><link>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca</link></image>
+    <item>
+      <title>Der müde Kopf und der Zucker (Folge 1)</title>
+      <description><![CDATA[<p>Warum an erschöpften, schlafarmen Tagen ein starker Sog zum Zucker entsteht — die Neurochemie dahinter, warum es kein Willensproblem ist, und wie sich der Reflex umtrainieren lässt. Folge 1 einer dreiteiligen Mini-Serie. Erzählt als nüchterne Wissenschaftsdoku (ein Erzähler, Audio auf Englisch).</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://www.jneurosci.org/content/39/5/888">Sleep Deprivation Selectively Upregulates an Amygdala–Hypothalamic Circuit Involved in Food Reward (Journal of Neuroscience)</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6344438/">Rested-Baseline Responsivity of the Ventral Striatum and Intake During Sleep Deprivation (PMC)</a></li>
+<li><a href="https://thewell.northwell.edu/sleep-health/sleep-deprivation-sugar-cravings">Why Sleep Deprivation Causes Sugar Cravings (The Well by Northwell)</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7151045/">Effects of Sleep Deprivation on Blood Glucose, Food Cravings, and Affect — N-of-1 Study (PMC)</a></li>
+<li><a href="https://www.babyfacellc.com/blog/2026/6/19/sugar-cravings-and-blood-sugar-why-willpower-isnt-the-problem">Sugar Cravings and Blood Sugar: Why Willpower Isn't the Problem (Babyface)</a></li>
+</ul>]]></description>
+      <itunes:summary><![CDATA[<p>Warum an erschöpften, schlafarmen Tagen ein starker Sog zum Zucker entsteht — die Neurochemie dahinter, warum es kein Willensproblem ist, und wie sich der Reflex umtrainieren lässt. Folge 1 einer dreiteiligen Mini-Serie. Erzählt als nüchterne Wissenschaftsdoku (ein Erzähler, Audio auf Englisch).</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://www.jneurosci.org/content/39/5/888">Sleep Deprivation Selectively Upregulates an Amygdala–Hypothalamic Circuit Involved in Food Reward (Journal of Neuroscience)</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6344438/">Rested-Baseline Responsivity of the Ventral Striatum and Intake During Sleep Deprivation (PMC)</a></li>
+<li><a href="https://thewell.northwell.edu/sleep-health/sleep-deprivation-sugar-cravings">Why Sleep Deprivation Causes Sugar Cravings (The Well by Northwell)</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7151045/">Effects of Sleep Deprivation on Blood Glucose, Food Cravings, and Affect — N-of-1 Study (PMC)</a></li>
+<li><a href="https://www.babyfacellc.com/blog/2026/6/19/sugar-cravings-and-blood-sugar-why-willpower-isnt-the-problem">Sugar Cravings and Blood Sugar: Why Willpower Isn't the Problem (Babyface)</a></li>
+</ul>]]></itunes:summary>
+      <pubDate>Sun, 26 Jul 2026 18:01:45 +0000</pubDate>
+      <enclosure url="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/episodes/the-tired-brain-and-the-sugar-pull.mp3" length="3542583" type="audio/mpeg"/>
+      <guid isPermaLink="false">the-tired-brain-and-the-sugar-pull</guid>
+      <itunes:duration>7:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Inside Claude Code — Anatomy of a Coding Agent</title>
       <description><![CDATA[<p>A technical deep dive into how Claude Code actually works — the agentic loop, subagents, MCP, hooks, and skills — and the harder questions about cost, autonomy, and when the whole thing is the wrong tool for the job.</p>
