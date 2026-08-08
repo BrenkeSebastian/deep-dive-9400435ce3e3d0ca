@@ -10,9 +10,41 @@
     <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <lastBuildDate>Sat, 08 Aug 2026 09:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 09:52:18 +0000</lastBuildDate>
     <itunes:image href="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg"/>
     <image><url>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg</url><title>Deep Dive</title><link>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca</link></image>
+    <item>
+      <title>The Bleeding on the Pill Isn't Your Period</title>
+      <description><![CDATA[<p>Tens of millions of women bleed for a few days each month on hormonal contraception and call it a period. Mechanically, it usually isn't one. This episode traces the biology of withdrawal bleeding, the mid-century design decisions that built a fake period into the pill, what current guidelines actually say about skipping it, how bleeding differs across other hormonal methods, and the wider history of whose bodies got studied — and how.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://my.clevelandclinic.org/health/symptoms/withdrawal-bleeding">Withdrawal Bleeding: Overview, Causes &amp; Symptoms (Cleveland Clinic)</a></li>
+<li><a href="https://helloclue.com/articles/sex/pill-your-period">What is Withdrawal Bleeding on Birth Control? (Clue)</a></li>
+<li><a href="https://www.vice.com/en/article/why-you-have-your-period-on-birth-control-withdrawal-bleeding/">The Man Behind the Pill Decided Women 'Need' to Have Periods—But They Don't (Vice)</a></li>
+<li><a href="https://www.brmc.com.au/portfolio-posts/was-the-pills-21-7-regime-really-invented-to-please-the-pope/">Was the Pill's 21/7 regime really invented to please the Pope? (Barrier Reef Medical Centre)</a></li>
+<li><a href="https://patient.info/doctor/gynaecology/breakthrough-bleeding-with-combined-hormonal-contraception">Breakthrough bleeding with combined hormonal contraception, citing FSRH guidance (Patient.info)</a></li>
+<li><a href="https://www.cochrane.org/evidence/CD004695_combined-hormonal-contraceptives-taken-extended-regimens-more-28-days-compare-favorably-traditional">Continuous or extended cycle vs. cyclic use of combined hormonal contraceptives for contraception (Cochrane)</a></li>
+<li><a href="https://www.aafp.org/pubs/afp/issues/2024/0200/abnormal-uterine-bleeding.html">Abnormal Uterine Bleeding Associated With Hormonal Contraception (American Family Physician, 2024)</a></li>
+<li><a href="https://www.thecrimson.com/article/2017/9/28/the-bitter-pill/">The Bitter Pill: Harvard and the Dark History of Birth Control (The Harvard Crimson)</a></li>
+<li><a href="https://time.com/7171341/gender-gap-medical-research/">Does the Gender Gap in Medical Research Still Exist? (TIME, 2024)</a></li>
+</ul>]]></description>
+      <itunes:summary><![CDATA[<p>Tens of millions of women bleed for a few days each month on hormonal contraception and call it a period. Mechanically, it usually isn't one. This episode traces the biology of withdrawal bleeding, the mid-century design decisions that built a fake period into the pill, what current guidelines actually say about skipping it, how bleeding differs across other hormonal methods, and the wider history of whose bodies got studied — and how.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://my.clevelandclinic.org/health/symptoms/withdrawal-bleeding">Withdrawal Bleeding: Overview, Causes &amp; Symptoms (Cleveland Clinic)</a></li>
+<li><a href="https://helloclue.com/articles/sex/pill-your-period">What is Withdrawal Bleeding on Birth Control? (Clue)</a></li>
+<li><a href="https://www.vice.com/en/article/why-you-have-your-period-on-birth-control-withdrawal-bleeding/">The Man Behind the Pill Decided Women 'Need' to Have Periods—But They Don't (Vice)</a></li>
+<li><a href="https://www.brmc.com.au/portfolio-posts/was-the-pills-21-7-regime-really-invented-to-please-the-pope/">Was the Pill's 21/7 regime really invented to please the Pope? (Barrier Reef Medical Centre)</a></li>
+<li><a href="https://patient.info/doctor/gynaecology/breakthrough-bleeding-with-combined-hormonal-contraception">Breakthrough bleeding with combined hormonal contraception, citing FSRH guidance (Patient.info)</a></li>
+<li><a href="https://www.cochrane.org/evidence/CD004695_combined-hormonal-contraceptives-taken-extended-regimens-more-28-days-compare-favorably-traditional">Continuous or extended cycle vs. cyclic use of combined hormonal contraceptives for contraception (Cochrane)</a></li>
+<li><a href="https://www.aafp.org/pubs/afp/issues/2024/0200/abnormal-uterine-bleeding.html">Abnormal Uterine Bleeding Associated With Hormonal Contraception (American Family Physician, 2024)</a></li>
+<li><a href="https://www.thecrimson.com/article/2017/9/28/the-bitter-pill/">The Bitter Pill: Harvard and the Dark History of Birth Control (The Harvard Crimson)</a></li>
+<li><a href="https://time.com/7171341/gender-gap-medical-research/">Does the Gender Gap in Medical Research Still Exist? (TIME, 2024)</a></li>
+</ul>]]></itunes:summary>
+      <pubDate>Sat, 08 Aug 2026 09:52:10 +0000</pubDate>
+      <enclosure url="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/episodes/hormonal-contraception-bleeding.mp3" length="8552298" type="audio/mpeg"/>
+      <guid isPermaLink="false">hormonal-contraception-bleeding</guid>
+      <itunes:duration>17:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Containing Machines That Don't Follow Rules</title>
       <description><![CDATA[<p>In July 2026, models being tested for hacking ability broke out of their sandbox and reached a company that had nothing to do with the test. This episode traces what actually happened, and the layered, openly imperfect architecture labs use to contain systems that don't follow fixed rules.</p>
