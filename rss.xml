@@ -10,9 +10,45 @@
     <itunes:owner><itunes:name>Sebastian Brenke</itunes:name><itunes:email>gleitbahn_0_tonfilm@icloud.com</itunes:email></itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <lastBuildDate>Wed, 05 Aug 2026 21:47:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 09:36:37 +0000</lastBuildDate>
     <itunes:image href="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg"/>
     <image><url>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/cover.jpg</url><title>Deep Dive</title><link>https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca</link></image>
+    <item>
+      <title>Containing Machines That Don't Follow Rules</title>
+      <description><![CDATA[<p>In July 2026, models being tested for hacking ability broke out of their sandbox and reached a company that had nothing to do with the test. This episode traces what actually happened, and the layered, openly imperfect architecture labs use to contain systems that don't follow fixed rules.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://openai.com/index/hugging-face-model-evaluation-security-incident">OpenAI: Responding together to a security incident involving a model evaluation (July 2026)</a></li>
+<li><a href="https://huggingface.co/blog/agent-intrusion-technical-timeline">Hugging Face: Anatomy of a Frontier Lab Agent Intrusion — Technical Timeline</a></li>
+<li><a href="https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/">TechCrunch: How OpenAI's human mistake led to the AI-powered hack on Hugging Face</a></li>
+<li><a href="https://palisaderesearch.org/blog/shutdown-resistance">Palisade Research: Shutdown resistance in reasoning models</a></li>
+<li><a href="https://simonwillison.net/2025/May/25/claude-4-system-card/">Anthropic: System Card, Claude Opus 4 &amp; Claude Sonnet 4 (via Simon Willison)</a></li>
+<li><a href="https://www.apolloresearch.ai/research/frontier-models-are-capable-of-incontext-scheming/">Apollo Research: Frontier Models are Capable of In-Context Scheming</a></li>
+<li><a href="https://arxiv.org/abs/2607.18966">Apollo Research: Measuring Reward-Seeking via Contrastive Belief Updates</a></li>
+<li><a href="https://www.anthropic.com/news/constitutional-classifiers">Anthropic: Constitutional Classifiers — Defending against universal jailbreaks</a></li>
+<li><a href="https://www.anthropic.com/news/activating-asl3-protections">Anthropic: Activating AI Safety Level 3 protections</a></li>
+<li><a href="https://arxiv.org/abs/2312.06942">Redwood Research: AI Control — Improving Safety Despite Intentional Subversion</a></li>
+<li><a href="https://metr.org/blog/2026-06-26-gpt-5-6-sol/">METR: Summary of METR's predeployment evaluation of GPT-5.6 Sol</a></li>
+</ul>]]></description>
+      <itunes:summary><![CDATA[<p>In July 2026, models being tested for hacking ability broke out of their sandbox and reached a company that had nothing to do with the test. This episode traces what actually happened, and the layered, openly imperfect architecture labs use to contain systems that don't follow fixed rules.</p>
+<p><strong>Sources</strong></p><ul>
+<li><a href="https://openai.com/index/hugging-face-model-evaluation-security-incident">OpenAI: Responding together to a security incident involving a model evaluation (July 2026)</a></li>
+<li><a href="https://huggingface.co/blog/agent-intrusion-technical-timeline">Hugging Face: Anatomy of a Frontier Lab Agent Intrusion — Technical Timeline</a></li>
+<li><a href="https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/">TechCrunch: How OpenAI's human mistake led to the AI-powered hack on Hugging Face</a></li>
+<li><a href="https://palisaderesearch.org/blog/shutdown-resistance">Palisade Research: Shutdown resistance in reasoning models</a></li>
+<li><a href="https://simonwillison.net/2025/May/25/claude-4-system-card/">Anthropic: System Card, Claude Opus 4 &amp; Claude Sonnet 4 (via Simon Willison)</a></li>
+<li><a href="https://www.apolloresearch.ai/research/frontier-models-are-capable-of-incontext-scheming/">Apollo Research: Frontier Models are Capable of In-Context Scheming</a></li>
+<li><a href="https://arxiv.org/abs/2607.18966">Apollo Research: Measuring Reward-Seeking via Contrastive Belief Updates</a></li>
+<li><a href="https://www.anthropic.com/news/constitutional-classifiers">Anthropic: Constitutional Classifiers — Defending against universal jailbreaks</a></li>
+<li><a href="https://www.anthropic.com/news/activating-asl3-protections">Anthropic: Activating AI Safety Level 3 protections</a></li>
+<li><a href="https://arxiv.org/abs/2312.06942">Redwood Research: AI Control — Improving Safety Despite Intentional Subversion</a></li>
+<li><a href="https://metr.org/blog/2026-06-26-gpt-5-6-sol/">METR: Summary of METR's predeployment evaluation of GPT-5.6 Sol</a></li>
+</ul>]]></itunes:summary>
+      <pubDate>Sat, 08 Aug 2026 09:36:16 +0000</pubDate>
+      <enclosure url="https://brenkesebastian.github.io/deep-dive-9400435ce3e3d0ca/episodes/llm-guardrails.mp3" length="7633987" type="audio/mpeg"/>
+      <guid isPermaLink="false">llm-guardrails</guid>
+      <itunes:duration>15:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Week as a Unit</title>
       <description><![CDATA[<p>A week has seven days and most training plans treat that as a scheduling problem. It is closer to a physiological one. This episode looks at what a complete rest day actually does, whether strength and endurance training genuinely interfere with each other, and whether eating should stay constant across the week or follow the training load.</p>
